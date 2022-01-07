@@ -13,14 +13,14 @@
     "simple_colors": {
         "background": -14144459,
         "background_secondary": -14605269,
-        "accent": -10114890,
+        "accent": -1110668828,
         "mention_highlight": -13815492,
         "statusbar": -14144459,
         "active_channel": -12894389,
         "input_background": -13815492
     },
     "colors": {
-        "link_500": -10114890,
+        "link_500": -3372572,
         "brand_new_360": -10114890,
         "brand_new_560": -10114890,
         "primary_dark_100": -12894389,
@@ -33,8 +33,11 @@
         "uikit_btn_bg_color_selector_green": -10114890,
         "uikit_btn_bg_color_selector_red": -2790026,
         "uikit_settings_item_text_color_light": -10460569,
-        "primary_dark_400": -10114890,
-        "uikit_settings_item_text_color_dark": -5392956
+        "primary_dark_400": -9327145,
+        "uikit_settings_item_text_color_dark": -5392956,
+        "link": -3372572,
+        "brand_new": -2790026,
+        "primary_700": -14605269
     },
     "drawable_tints": {
         "drawable_button_red": -2790026,
@@ -61,7 +64,8 @@
         "ic_call_24dp": -10114890,
         "ic_videocam_grey_24dp": -10114890,
         "ic_add_friend_plus": -10114890,
-        "ic_add_friend_send": -10114890
+        "ic_add_friend_send": -10114890,
+        "drawable_button_grey": -1117411146
     },
     "raws": {}
 }
