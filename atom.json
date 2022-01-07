@@ -3,7 +3,8 @@
         "author": "omegasunkey#9366",
         "name": "atom",
         "version": "1.0.0",
-        "license": "GNU GPL V3.0"
+        "license": "GNU GPL V3.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/OmegaSunkey\/Atom-Theme\/main\/atom.json"
     },
     "background": {},
     "fonts": {
