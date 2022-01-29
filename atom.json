@@ -13,7 +13,7 @@
     "simple_colors": {
         "background": -14144459,
         "background_secondary": -14605269,
-        "accent": -1110668828,
+        "accent": -1093891612,
         "mention_highlight": -13815492,
         "statusbar": -14144459,
         "active_channel": -12894389,
@@ -37,7 +37,8 @@
         "uikit_settings_item_text_color_dark": -5392956,
         "link": -3372572,
         "brand_new": -2790026,
-        "primary_700": -14605269
+        "primary_700": -14605269,
+        "uikit_btn_compound_color_selector_light": -1114019925
     },
     "drawable_tints": {
         "drawable_button_red": -2790026,
